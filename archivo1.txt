@@ -1,1 +1,10 @@
 Tarefa 2
+ Comandos:
+	-sudo git init
+	-sudo git config --global user.name "GuShA11”
+	-sudo git config --global user.email “bgoncalo11@gmail.com”
+	-sudo git add .
+	-sudo git commit -m "creamos el archivo"
+	-sudo git branch -M main
+	-sudo git remote add origen https://github.com/GuShA11/TitorialGitDaw
+	-sudo git push -u origen main
